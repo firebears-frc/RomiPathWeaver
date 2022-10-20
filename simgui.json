@@ -58,7 +58,11 @@
       },
       "OnBoardIO": {
         "open": true
-      }
+      },
+      "Ungrouped": {
+        "open": true
+      },
+      "open": true
     },
     "Romi": {
       "Config": {
@@ -72,9 +76,7 @@
       }
     },
     "SmartDashboard": {
-      "field": {
-        "open": true
-      }
+      "open": true
     }
   }
 }
