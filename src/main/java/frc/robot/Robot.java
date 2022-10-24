@@ -26,7 +26,7 @@ import edu.wpi.first.math.trajectory.TrajectoryUtil;
 public class Robot extends TimedRobot {
   private Command m_autonomousCommand;
   private RobotContainer m_robotContainer;
-  String trajectoryJSON = "paths/output/Unnamed_4.wpilib.json";
+  String trajectoryJSON = "paths/output/Unnamed_6.wpilib.json";
   Trajectory trajectory = new Trajectory();
 
   /**
