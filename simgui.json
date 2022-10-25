@@ -53,15 +53,6 @@
   },
   "NetworkTables": {
     "LiveWindow": {
-      "Drivetrain": {
-        "open": true
-      },
-      "OnBoardIO": {
-        "open": true
-      },
-      "Ungrouped": {
-        "open": true
-      },
       "open": true
     },
     "Romi": {
@@ -73,7 +64,8 @@
       },
       "Status": {
         "open": true
-      }
+      },
+      "open": true
     },
     "SmartDashboard": {
       "open": true
